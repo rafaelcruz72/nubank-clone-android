@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/rafae/AndroidStudioProjects/NubankCloneUI/app/src/main/res/drawable/container_circulo.xml" value="0.1025" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/NubankCloneUI/app/src/main/res/drawable/container_circulo_icones.xml" value="0.1" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/NubankCloneUI/app/src/main/res/drawable/container_circulo_pagamento.xml" value="0.1" />
         <entry key="..\:/Users/rafae/AndroidStudioProjects/NubankCloneUI/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/NubankCloneUI/app/src/main/res/layout/pagamento_item.xml" value="0.22" />
       </map>
     </option>
   </component>

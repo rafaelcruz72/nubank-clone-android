@@ -92,5 +92,10 @@ e
         android:textStyle="bold"
         android:layout_margin="20dp"/>
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerIconesPagamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
 
