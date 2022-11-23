@@ -2,4 +2,5 @@
     <string name="app_name">Nubank Clone UI</string>
     <string name="txt_nome_usuario">Olá, Rafael</string>
     <string name="txt_saldo_conta">Conta \n\n\ R$ 813,95</string>
+    <string name="txt_meus_cartoes">Meus Cartões</string>
 </resources>
